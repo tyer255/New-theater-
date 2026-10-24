@@ -1,0 +1,6 @@
+{
+  "name": "AETHOFLIX · Mini IMAX Theatre",
+  "description": "Interactive 3D Virtual IMAX Cinema where you can walk around, find your seat, and watch movies, shows, anime, or live TV on a giant curved screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
